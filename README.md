@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkingbadeOmosebi.
 - 👀 I’m interested in Cloud technologies and Cloud services
-- 🌱 I’m currently working with Google cloud technologies.
+- 🌱 I’m currently working with AWS, Azure and Google cloud technologies.
 - 💞️ I’m looking to collaborate on Fun projects related to Cloud engineering/Cloud services/Dev-Ops.
 - 📫 How to reach me LinkedIn (https://www.linkedin.com/in/aomosebi/). 
 - 😄 Pronouns: Male.
