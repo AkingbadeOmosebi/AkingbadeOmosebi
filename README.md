@@ -1,15 +1,8 @@
-# 👋 Hi there, I'm Akingbade Omosebi — or just call me Aking (yes, King 😉)
-
-- 🌥️ Passionate about all things Cloud — AWS, Azure, and Google Cloud
-- 🛠️ Currently skilling up in Cloud Engineering, Cloud Services, and DevSecOps
-- 👀 Always curious about new cloud-native tools, automation, DevOps and infra as code
-- 🤝 Open to collaboration on fun and impactful cloud or DevOps projects
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/aomosebi/)
-- 🙋‍♂️ Pronouns: He/Him
-- 🤷‍♂️ Yes, I know... I *still* haven’t cleaned up my repo. I said I would. A few years ago. 🫶🥲
-- ⚡ Fun Fact: Making someone else smile might just be the boost *you* need. Be kind. Go bless someone’s day today!
-
-<!---
-AkingbadeOmosebi/AkingbadeOmosebi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Akingbade Omosebi (call me Aking)  
+🌥️ Passionate about cloud technologies — AWS, Azure, and Google Cloud  
+🛠️ Currently deepening my skills in Cloud Engineering and DevSecOps  
+👀 Always exploring cloud-native tools, automation, and infrastructure as code  
+🤝 Open to collaborating on impactful cloud or DevOps projects  
+📫 Let’s connect on LinkedIn: [LinkedIn](https://www.linkedin.com/in/aomosebi/)  
+🙋‍♂️ Pronouns: He/Him  
+⚡ Fun Fact: A small act of kindness can make someone’s day — go spread some positivity!
