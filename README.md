@@ -29,3 +29,8 @@ Based in Berlin, Germany 🇩🇪
 ---
 
 💼 Open to DevSecOps, Cloud Engineering, Platform Engineering, and SRE opportunities in Berlin
+
+![GitHub followers](https://img.shields.io/github/followers/AkingbadeOmosebi?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=AkingbadeOmosebi&color=blue)
+![Akingbade's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkingbadeOmosebi&show_icons=true&theme=default)
+
