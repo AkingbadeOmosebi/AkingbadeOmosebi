@@ -1,0 +1,99 @@
+# AKINGBADE OMOSEBI
+
+**Platform Engineer | DevOps Engineer | Site Reliability Engineer**
+
+Berlin, Germany | EU Work Authorization
+Email: akingbadeomosebi@gmail.com
+LinkedIn: linkedin.com/in/aomosebi
+GitHub: github.com/AkingbadeOmosebi
+Languages: English (Fluent), German (A2)
+
+---
+
+## PROFESSIONAL SUMMARY
+
+Platform Engineer with hands-on experience designing and implementing production-grade cloud infrastructure on Azure and AWS. Specialized in Kubernetes orchestration, Infrastructure as Code with Terraform, and GitOps workflows using ArgoCD. Proven ability to build complete DevSecOps pipelines with automated security scanning, container signing, and comprehensive observability stacks. Based in Berlin with EU work authorization and immediate availability.
+
+---
+
+## TECHNICAL SKILLS
+
+**Cloud Platforms:** Microsoft Azure (AKS, ACR, Azure DNS, Key Vault), Amazon Web Services (EKS, EC2, S3, IAM, VPC)
+
+**Container Orchestration:** Kubernetes, Docker, Helm, K3s, Container Registry Management
+
+**Infrastructure as Code:** Terraform, Terraform Modules, State Management, Azure Provider, AWS Provider
+
+**GitOps & CI/CD:** ArgoCD (Application Sets, Image Updater, Auto-Sync, Self-Healing), GitHub Actions, Jenkins, Azure DevOps Pipelines
+
+**Monitoring & Observability:** Prometheus, Grafana, Alertmanager, PrometheusRules, Custom Dashboards, Log Aggregation
+
+**Security & Compliance:** DevSecOps, SBOM Generation, Cosign Container Signing, Trivy, SonarCloud, OWASP ZAP, Sealed Secrets, cert-manager, TLS/SSL
+
+**Networking:** Ingress Controllers, Load Balancers, DNS Management, Ngrok, Service Mesh Concepts
+
+**Version Control:** Git, GitHub, GitLab, Branching Strategies
+
+**Scripting & Automation:** Bash, Python, YAML, JSON
+
+**Methodologies:** Agile, Scrum, Infrastructure as Code, GitOps, Shift-Left Security, SRE Practices
+
+---
+
+## PROJECTS
+
+### 3-Tier MERN Application Platform on Azure AKS
+**Technologies:** Azure AKS, Terraform, ArgoCD, GitHub Actions, Prometheus, Grafana, cert-manager, Cosign
+
+- Architected and deployed production-grade 3-tier application infrastructure on Azure Kubernetes Service using Terraform for complete infrastructure automation
+- Implemented GitOps workflow with ArgoCD featuring auto-sync, self-healing, and automated image updates for continuous deployment
+- Built 8-layer DevSecOps CI/CD pipeline integrating SAST, container scanning, SBOM generation, and Cosign image signing for supply chain security
+- Configured production observability stack with Prometheus, custom PrometheusRules for alerting, and Grafana dashboards for metrics visualization
+- Automated TLS certificate management with cert-manager for 3 production domains with automatic renewal
+- Created comprehensive technical documentation spanning 5,400+ lines across 6 implementation guides
+- Designed detailed architectural diagrams documenting system components and data flow
+
+### Opsfolio DevSecOps Platform
+**Technologies:** AWS EKS, K3s, Terraform, ArgoCD, Prometheus, Grafana, Alertmanager, Sealed Secrets, GitHub Actions
+
+- Designed dual-environment infrastructure supporting local K3s development and AWS EKS production deployment
+- Deployed complete monitoring stack with Prometheus, Grafana dashboards, and Alertmanager for proactive incident management
+- Implemented GitOps continuous deployment with ArgoCD Image Updater for automated container image synchronization
+- Configured Sealed Secrets for secure Kubernetes secret management and credential encryption
+- Established shift-left DevSecOps pipeline with security scanning integrated at build stage
+- Optimized development workflow for cost efficiency while maintaining production parity
+- Managed traffic routing with Ngrok endpoints including basic WAF capabilities
+
+---
+
+## CORE COMPETENCIES
+
+- Building and maintaining Kubernetes clusters on Azure AKS and AWS EKS
+- Writing and managing Terraform modules for multi-cloud infrastructure provisioning
+- Implementing GitOps deployment workflows with ArgoCD for automated, auditable releases
+- Designing CI/CD pipelines with integrated security scanning and compliance checks
+- Setting up monitoring, alerting, and observability solutions using Prometheus and Grafana
+- Container security practices including image signing, vulnerability scanning, and SBOM generation
+- Automating certificate management and TLS termination for production workloads
+- Technical documentation and architectural diagramming
+
+---
+
+## CERTIFICATIONS & CONTINUOUS LEARNING
+
+- Active practitioner of DevSecOps and Platform Engineering best practices
+- Continuous hands-on learning through production-grade project implementations
+- Regular contributor to open-source documentation
+
+---
+
+## AVAILABILITY
+
+- **Location:** Berlin, Germany
+- **Work Authorization:** EU Work Visa (Job Seeker Visa)
+- **Availability:** Immediate
+- **Work Preference:** On-site, Hybrid, or Remote
+
+---
+
+*References and additional project details available upon request*
