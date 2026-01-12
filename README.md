@@ -14,7 +14,7 @@ Currently seeking mid-level Platform Engineer / DevOps / SRE roles in Berlin.
 - AWS WAF protection with real attack testing (SQL injection, XSS, rate limiting, bot control)
 - Multi-AZ ECS Fargate deployment with auto-scaling
 - Comprehensive cost analysis with Infracost integration
-- 🌐 **Live demo:** https://dev.brewsecops.online
+- 🌐 **Live demo:** https://dev.brewsecops.online  (Preview may be unavailable to conserve cost)
 - 📄 **Documentation:** 4 comprehensive guides + 77 screenshots
 - **Tech:** AWS ECS Fargate, RDS PostgreSQL, Terraform, GitHub Actions, WAF, Route53
 
