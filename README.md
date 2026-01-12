@@ -15,7 +15,7 @@ Currently seeking mid-level Platform Engineer / DevOps / SRE roles in Berlin.
 - Multi-AZ ECS Fargate deployment with auto-scaling
 - Comprehensive cost analysis with Infracost integration
 - 🌐 **Live demo:** https://dev.brewsecops.online
-- 📄 **Documentation:** 4 comprehensive guides + 77 screenshots
+- 📄 **Documentation:** 4 comprehensive guides + 77 screenshots (Preview may be unavailable to conserve cost)
 - **Tech:** AWS ECS Fargate, RDS PostgreSQL, Terraform, GitHub Actions, WAF, Route53
 
 **[3-Tier MERN Platform on Azure AKS](https://github.com/AkingbadeOmosebi/3-Tier-MERN-App)** ⭐ Featured Project (Azure)
@@ -69,7 +69,11 @@ Currently seeking mid-level Platform Engineer / DevOps / SRE roles in Berlin.
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkingbadeOmosebi&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkingbadeOmosebi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkingbadeOmosebi&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkingbadeOmosebi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ### 📫 Let's Connect
 
