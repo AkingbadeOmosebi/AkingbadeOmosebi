@@ -15,7 +15,7 @@ Currently seeking mid-level Platform Engineer / DevOps / SRE roles in Berlin.
 - Multi-AZ ECS Fargate deployment with auto-scaling
 - Comprehensive cost analysis with Infracost integration
 - 🌐 **Live demo:** https://dev.brewsecops.online
-- 📄 **Documentation:** 4 comprehensive guides + 77 screenshots (Preview may be unavailable to conserve cost)
+- 📄 **Documentation:** 4 comprehensive guides + 77 screenshots
 - **Tech:** AWS ECS Fargate, RDS PostgreSQL, Terraform, GitHub Actions, WAF, Route53
 
 **[3-Tier MERN Platform on Azure AKS](https://github.com/AkingbadeOmosebi/3-Tier-MERN-App)** ⭐ Featured Project (Azure)
@@ -41,7 +41,7 @@ Currently seeking mid-level Platform Engineer / DevOps / SRE roles in Berlin.
 ### 💼 What I'm Looking For
 
 - **Role:** Platform Engineer, DevOps Engineer, SRE, Cloud Engineer
-- **Location:** 📍 Berlin (local, no relocation needed)
+- **Location:** 📍 Open to relocations
 - **Work Authorization:** ✅ EU Work Visa (Job Seeker)
 - **Availability:** ✅ Immediate
 - **Salary Range:** €55-70K
@@ -66,10 +66,6 @@ Currently seeking mid-level Platform Engineer / DevOps / SRE roles in Berlin.
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=white)
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkingbadeOmosebi&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ### 📫 Let's Connect
 
