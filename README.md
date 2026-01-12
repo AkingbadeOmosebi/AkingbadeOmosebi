@@ -69,11 +69,7 @@ Currently seeking mid-level Platform Engineer / DevOps / SRE roles in Berlin.
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkingbadeOmosebi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkingbadeOmosebi&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AkingbadeOmosebi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkingbadeOmosebi&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
 ### 📫 Let's Connect
 
