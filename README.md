@@ -18,7 +18,7 @@ Currently seeking mid-level Platform Engineer / DevOps / SRE roles in Berlin.
 - 📄 **Documentation:** 4 comprehensive guides + 77 screenshots
 - **Tech:** AWS ECS Fargate, RDS PostgreSQL, Terraform, GitHub Actions, WAF, Route53
 
-**[3-Tier MERN Platform on Azure AKS](https://github.com/AkingbadeOmosebi/3-Tier-MERN-App)** ⭐ Featured Project (Azure)
+**[Aksforge -Azure DevSecOps Deployment Platform](https://github.com/AkingbadeOmosebi/Aksforge)** ⭐ Featured Project (Azure)
 - Complete GitOps workflow with ArgoCD (auto-sync, self-heal)
 - Supply chain security (SBOM generation + Cosign signing)
 - Production observability (Prometheus + custom PrometheusRules)
