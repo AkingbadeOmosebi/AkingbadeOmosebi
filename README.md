@@ -1,24 +1,36 @@
 # Hi, I'm Akingbade 👋
 
-## Platform Engineer | DevOps | Berlin
+## Platform Engineer | DevOps | SRE | Berlin
 
 I build production-grade cloud platforms with Kubernetes, Terraform, and GitOps. 
 Currently seeking mid-level Platform Engineer / DevOps / SRE roles in Berlin.
 
 ### 🚀 What I've Built
 
-**[BrewSecOps - AWS DevSecOps Platform](https://github.com/AkingbadeOmosebi/brewsecops)** ⭐ Latest Project (AWS)
+**[ObserveOps - Production SRE Observability Platform](https://github.com/AkingbadeOmosebi/ObserveOps)** ⭐ Latest Project (AWS EKS)
+- Complete three-pillar observability: Prometheus + Grafana (metrics), Fluent Bit + EFK (logs), Jaeger + OpenTelemetry (traces)
+- Production AWS EKS infrastructure with multi-AZ deployment, VPC isolation, private/public subnets
+- Automated incident response: <1 minute detection-to-notification via Alertmanager
+- 6-layer security scanning: GitLeaks, OWASP, Trivy, SonarCloud, Snyk, Cosign
+- OIDC-federated CI/CD with GitHub Actions (zero stored AWS credentials)
+- Real production challenges documented: VPC dependencies, Prometheus ServiceMonitor discovery, OIDC federation
+- 📊 **30+ production screenshots** showing live system metrics, logs, traces, and alerts
+- 📄 **Documentation:** Comprehensive CHALLENGES.md with debugging methodologies
+- 🏗️ **Architecture:** Professional draw.io diagram with VPC, subnets, NAT gateways
+- **Tech:** AWS EKS, Terraform, Prometheus, Grafana, Elasticsearch, Kibana, Jaeger, OpenTelemetry, Kubernetes
+
+**[BrewSecOps - AWS DevSecOps Platform](https://github.com/AkingbadeOmosebi/brewsecops)** (AWS)
 - Production-grade multi-environment infrastructure (dev deployed, staging/prod code-ready)
 - 76 AWS resources deployed with Terraform (11 reusable modules)
 - Complete 6-stage security pipeline (Gitleaks, SonarCloud, Snyk, Trivy, OWASP, Cosign)
 - AWS WAF protection with real attack testing (SQL injection, XSS, rate limiting, bot control)
 - Multi-AZ ECS Fargate deployment with auto-scaling
 - Comprehensive cost analysis with Infracost integration
-- 🌐 **Live demo:** https://dev.brewsecops.online  (Preview may be unavailable to conserve cost)
+- 🌐 **Live demo:** https://dev.brewsecops.online (Preview may be unavailable to conserve cost)
 - 📄 **Documentation:** 4 comprehensive guides + 77 screenshots
 - **Tech:** AWS ECS Fargate, RDS PostgreSQL, Terraform, GitHub Actions, WAF, Route53
 
-**[Aksforge -Azure DevSecOps Deployment Platform](https://github.com/AkingbadeOmosebi/Aksforge)** ⭐ Featured Project (Azure)
+**[Aksforge - Azure DevSecOps Deployment Platform](https://github.com/AkingbadeOmosebi/Aksforge)** (Azure)
 - Complete GitOps workflow with ArgoCD (auto-sync, self-heal)
 - Supply chain security (SBOM generation + Cosign signing)
 - Production observability (Prometheus + custom PrometheusRules)
@@ -28,7 +40,7 @@ Currently seeking mid-level Platform Engineer / DevOps / SRE roles in Berlin.
 - 📄 **Documentation:** 5,400+ lines across 6 guides
 - Detailed architectural diagram (draw.io)
 
-**[Opsfolio DevSecOps Platform](https://github.com/AkingbadeOmosebi/Opsfolio-Interview-App)** 🔄 Hybrid Platform (K3s + EKS)
+**[Opsfolio DevSecOps Platform](https://github.com/AkingbadeOmosebi/Opsfolio-Interview-App)** (Hybrid K3s + EKS)
 - Dual-environment (Local K3s + AWS EKS)
 - Complete monitoring stack (Prometheus + Grafana + Alertmanager)
 - Full GitOps workflow with ArgoCD (Image updater, auto-sync, self-healing)
@@ -41,10 +53,10 @@ Currently seeking mid-level Platform Engineer / DevOps / SRE roles in Berlin.
 ### 💼 What I'm Looking For
 
 - **Role:** Platform Engineer, DevOps Engineer, SRE, Cloud Engineer
-- **Location:** 📍 Open to relocations
+- **Location:** 📍 Berlin, Germany (open to relocations)
 - **Work Authorization:** ✅ EU Work Visa (Job Seeker)
 - **Availability:** ✅ Immediate
-- **Salary Range:** €55-70K
+- **Salary Range:** €65-80K
 - **Languages:** English (fluent), German (A2, working toward B1)
 
 ### 🛠️ Tech Stack
@@ -61,9 +73,13 @@ Currently seeking mid-level Platform Engineer / DevOps / SRE roles in Berlin.
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white)
 
-**Monitoring & Security:**
+**Monitoring & Observability:**
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-60D0E4?logo=jaeger&logoColor=white)
+
+**Security:**
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=white)
 
@@ -75,4 +91,4 @@ Currently seeking mid-level Platform Engineer / DevOps / SRE roles in Berlin.
 
 ---
 
-💡 *I build the infrastructure that lets development teams move fast while maintaining reliability and security. My portfolio demonstrates production-grade platform engineering skills across AWS and Azure - complete automation, comprehensive monitoring, multi-environment architecture, and real security testing. Based in Berlin with EU work authorization, available immediately for mid-level roles.*
+💡 *I build the infrastructure that lets development teams move fast while maintaining reliability and security. My portfolio demonstrates production-grade platform engineering and SRE skills across AWS and Azure - complete observability, comprehensive monitoring, multi-environment architecture, automated incident response, and real security testing. Based in Berlin with EU work authorization, available immediately for mid-level roles.*
