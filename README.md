@@ -56,7 +56,7 @@ Currently seeking mid-level Platform Engineer / DevOps / SRE roles in Berlin.
 - **Location:** 📍 Berlin, Germany (open to relocations)
 - **Work Authorization:** ✅ EU Work Visa (Job Seeker)
 - **Availability:** ✅ Immediate
-- **Salary Range:** €65-80K
+- **Salary Range:** 87-97k
 - **Languages:** English (fluent), German (A2, working toward B1)
 
 ### 🛠️ Tech Stack
